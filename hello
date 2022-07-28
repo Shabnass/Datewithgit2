@@ -2,5 +2,7 @@ hello
 how are you?
 change in file
 I am changing for a new reason
+<<<<<<< HEAD
 "recursive merge"
 "now show the result"
+=======
